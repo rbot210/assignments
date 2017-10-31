@@ -1,0 +1,13 @@
+<package format="2">
+  <name>hello_world</name>
+  <version>1.0.0</version>
+  <description>
+    This package demos some basic ROS functionality
+  </description>
+  <maintainer email="gwright@brandeis.edu">Geoff Wright</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>roscpp</buildtool_depend>
+</package>
+
