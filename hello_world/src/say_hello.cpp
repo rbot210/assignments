@@ -44,6 +44,9 @@ int main(int argc, char **argv)
      *
      * TODO: fill the msg with a "hello world" string, and publish it using the comms_pub object
      * created above.
+     *
+     * Hint: this assignment bears a lot in common with the tutorial located here:
+     * http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28c%2B%2B%29
      */
     std_msgs::String msg;
 
